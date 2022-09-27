@@ -9,6 +9,8 @@ int main() {
     }
     double young = ages[0];
     for(int a=0;a<5;++a){
+
+// It assign young to smallest number of array
         if(young > ages[a]){
         young = ages[a];
         }
