@@ -25,3 +25,7 @@ Write a program to take the N number as input, generate 4 random numbers from th
 While playing a board game, you and your friend roll the dice and the person who rolled the higher number moves forward.
 Write a function that takes two numbers as arguments and returns the higher number of the two. Print the result.
 If numbers are equal function must return that number.
+
+# Sixth 
+Pastry chefs are competing to win the battle of the cakes. For each additional cake made, the number of eggs required increases by 1 (1 egg for the first cake, 2 eggs for the second, etc.). 
+Take the number of cakes that must be baked as the input, calculate (recursively) how many eggs were used to bake them by the end of the battle and output the result.
