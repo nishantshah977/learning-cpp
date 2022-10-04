@@ -29,3 +29,8 @@ If numbers are equal function must return that number.
 # Sixth 
 Pastry chefs are competing to win the battle of the cakes. For each additional cake made, the number of eggs required increases by 1 (1 egg for the first cake, 2 eggs for the second, etc.). 
 Take the number of cakes that must be baked as the input, calculate (recursively) how many eggs were used to bake them by the end of the battle and output the result.
+
+# Seventh 
+A palindromic number is a number (such as 626) that remains the same when its digits are reversed.
+Write a function that returns true if a given number is a palindrome, and false, if it is not.
+Complete the given function, so that the code in main works and results in the expected output.
